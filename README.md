@@ -1,2 +1,2 @@
 # BUILD-A-WEBSITE-WITH-HTML-CSS-AND-GITHUB-PAGES-Transitions-
-My own expiremnt
+My own expirement with the CSS challenges
